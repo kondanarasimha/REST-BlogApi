@@ -1,0 +1,29 @@
+body {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.status-svg-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.status-svg-container svg {
+  width: 200px;
+  height: 50vh;
+}
+
+.message-container {
+  text-align: center;
+}
+
+.message-container h1 {
+  display: inline;
+}
+
+.message-container h2 {
+  margin-top: 0px;
+  font-weight: 600;
+  color: rgb(4, 233, 4);
+}

@@ -1,0 +1,72 @@
+body {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    display: flex;
+    justify-content: center;
+}
+
+.main-container {
+  width: 350px;
+  margin-top: 20px;
+}
+
+.reset-text-container h1 {
+  text-align: center;
+  margin: auto;
+} 
+
+.message-text-container h4{
+  text-align: center;
+  font-weight: 500;
+  color: red;
+  margin-top: 0px;
+}
+
+.inputs-form-container {
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.email-container {
+  margin-bottom: 1rem;
+}
+
+.email-container
+input {
+  width: 280px;
+  padding: 10px;
+  border-radius: 5px;
+  border: solid rgb(47, 79, 237) 1px;
+}
+
+.otp-button-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.otp-button-container button {
+  width: 300px;
+  height: 35px;
+  background-color: white;
+  color: black;
+  transition: all 0.1s;
+  border-style: none;
+  cursor: pointer;
+  background-color: rgb(47, 79, 237);
+  color: white;
+  border-radius: 5px;
+}
+
+.otp-button-container button:hover {
+ 
+  opacity: 0.9;
+}
+
+.otp-button-container button:active {
+  opacity: 0.7;
+}
+
+

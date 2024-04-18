@@ -1,0 +1,19 @@
+body {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  font-size: 150px;
+  font-style: normal;
+  display: inline;
+  margin: 0px;
+}
+
+h2 {
+  margin: 0px;
+  text-align: center;
+}

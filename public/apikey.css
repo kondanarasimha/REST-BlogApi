@@ -1,0 +1,46 @@
+body {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  display: flex;
+  justify-content: center;
+}
+
+.keybar-button-container {
+  display: flex;
+  justify-content: space-between;
+}
+.api-key-container h1 {
+  text-align: center;
+}
+
+.api-key {
+  background-color: rgb(222, 222, 222);
+  width: 400px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 4px;
+} 
+
+.api-key-container button {
+  background-color: white;
+  border-style: none;
+  cursor: pointer;
+  background-color: rgb(47, 79, 237);
+  transition: all 0.1s;
+  color: white;
+  border-radius: 5px;
+  width: 80px;
+  cursor: pointer;
+}
+
+.api-key-container button:hover {
+ 
+  opacity: 0.9;
+}
+
+.api-key-container button:active {
+  opacity: 0.8;
+}
