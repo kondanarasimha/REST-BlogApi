@@ -16,7 +16,7 @@ Modern REST Blog API for Content Management
      Secure authentication system with OAuth2 integration allows users to sign up via Google OAuth or traditional signup. API key authorization ensures controlled access.
    
 3. **Password Reset with OTP:** 
-    Users can reset their passwords securely using a one-time password (OTP) sent to their registered email or phone number.
+    Users can reset their passwords securely using a one-time password (OTP) sent to their registered email.
 4. **CRUD Operations:** 
     Full CRUD functionality for managing blog posts, comments, likes, and categories, providing complete control over content.
 
