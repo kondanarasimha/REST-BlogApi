@@ -1,0 +1,1 @@
+Visit this [link](https://www.linkedin.com/posts/konda-narasimha-29a905250_nodejs-express-ejs-activity-7187158920145047552-PqQU?utm_source=share&utm_medium=member_desktop) for a **step-by-step guide** about the **project**.
