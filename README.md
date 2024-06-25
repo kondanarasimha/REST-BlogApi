@@ -1,7 +1,7 @@
-## Project Description:
+# Project Description:
 Modern REST Blog API for Content Management
 
-### Technologies Used:
+# Technologies Used:
 
 - Node.js
 - Express.js
@@ -10,11 +10,7 @@ Modern REST Blog API for Content Management
 - CSS
 - Git
 
-### Key Features:
-
-Certainly! Here's the updated key feature:
-
-### Key Features:
+# Key Features:
 
 1. **User Authentication and Authorization:** Secure authentication system with OAuth2 integration allows users to sign up via Google OAuth or traditional signup. API key authorization ensures controlled access.
    
